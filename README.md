@@ -1,7 +1,6 @@
 # Basics
 
 This lab introduces python notebooks, numpy, and pandas.
-
 First, create a directory where you are going to store all your datasets. 
 
 For this lab, download the input file [Titanic.csv](https://docs.google.com/spreadsheets/d/1QGNxqRU02eAvTGih1t0cErB5R05mdOdUBgJZACGcuvs/edit?usp=sharing) and place it into this local directory.
